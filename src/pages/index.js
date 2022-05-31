@@ -8,7 +8,7 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial",
+    text: "perssssnus",
     url: "https://www.gatsbyjs.com/docs/tutorial",
     description:
       "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
@@ -35,36 +35,26 @@ const links = [
 
 const samplePageLinks = [
   {
-    text: "Page 2",
-    url: "page-2",
+    text: "Students",
+    url: "Students",
     badge: false,
     description:
       "A simple example of linking to another page within a Gatsby site",
   },
-  { text: "TypeScript", url: "using-typescript" },
+  { text: "Teachers", url: "Teachers" },
   { text: "Server Side Rendering", url: "using-ssr" },
   { text: "Deferred Static Generation", url: "using-dsg" },
 ]
 
 const moreLinks = [
-  { text: "Join us on Discord", url: "https://gatsby.dev/discord" },
   {
-    text: "Documentation",
-    url: "https://gatsbyjs.com/docs/",
+    text: "Contact Us",
+    url: "",
   },
   {
-    text: "Starters",
-    url: "https://gatsbyjs.com/starters/",
+    text: "Issues",
+    url: "",
   },
-  {
-    text: "Showcase",
-    url: "https://gatsbyjs.com/showcase/",
-  },
-  {
-    text: "Contributing",
-    url: "https://www.gatsbyjs.com/contributing/",
-  },
-  { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
 ]
 
 const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
